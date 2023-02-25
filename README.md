@@ -7,6 +7,6 @@ Os exercicios vão estar separados de acordo com a semana que foi lecionada a ma
 
 ### [Site da Cadeira](https://www.dcc.fc.up.pt/~pribeiro/aulas/daa2223/)
 
-Francisco Ribeiro /<p>
+Francisco Ribeiro <p>
 Universidade do Porto
 
