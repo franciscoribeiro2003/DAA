@@ -31,6 +31,9 @@ São garantidos os seguintes limites em todos os casos de teste que irão ser co
 42
 ```
 ### Exemplo de Output
-`3`
+```
+3
+```
+
 Explicação do Input/Output
 O número 42 aparece 3 vezes na sequência [12,42,42,35,10,567,42].
