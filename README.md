@@ -21,6 +21,5 @@ Todos os exercícios são da autoria de Pedro Ribeiro.
 - [ADN alienigena](https://github.com/franciscoribeiro2003/DAA/tree/main/Semana-03/DAA009)
 
 ### Autoria
-Francisco Ribeiro
-Universidade do Porto
+Francisco Ribeiro, Universidade do Porto.
 
