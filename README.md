@@ -13,6 +13,10 @@ Os exercicios vão estar separados de acordo com a semana que foi lecionada a ma
 
 **Semana 02**
 - [Bakugans](https://github.com/franciscoribeiro2003/DAA/blob/main/Semana-02/DAA005)
+- [Area de intersecao(Nao acabado)](https://github.com/franciscoribeiro2003/DAA/tree/main/Semana-02/DAA006)
+
+**Semana 03**
+- [ADN alienigena](https://github.com/franciscoribeiro2003/DAA/tree/main/Semana-03/DAA009)
 
 ### Francisco Ribeiro
 Universidade do Porto
