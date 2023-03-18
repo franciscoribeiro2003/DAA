@@ -8,6 +8,7 @@ Os exercicios vão estar separados de acordo com a semana que foi lecionada a ma
 
 ### Lista de exercícios
 Todos os exercícios são da autoria de Pedro Ribeiro.
+
 **Semana 01**
 - [O Sentido da vida](https://github.com/franciscoribeiro2003/DAA/blob/main/Semana-01/DAA001)
 - [Numeros arranjadinhos](https://github.com/franciscoribeiro2003/DAA/blob/main/Semana-01/DAA002/)
