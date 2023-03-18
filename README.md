@@ -8,8 +8,8 @@ Os exercicios vão estar separados de acordo com a semana que foi lecionada a ma
 
 ### Lista de exercícios
 **Semana 01**
-- [O Sentido da vida](https://github.com/franciscoribeiro2003/DAA/blob/main/Semana-01/DAA001/README.md)
-- [Numeros arranjadinhos](https://github.com/franciscoribeiro2003/DAA/blob/main/Semana-01/DAA002/README.md)
+- [O Sentido da vida](https://github.com/franciscoribeiro2003/DAA/blob/main/Semana-01/DAA001)
+- [Numeros arranjadinhos](https://github.com/franciscoribeiro2003/DAA/blob/main/Semana-01/DAA002/)
 
 **Semana 02**
 - [Bakugans](https://github.com/franciscoribeiro2003/DAA/blob/main/Semana-02/DAA005/README.md)
