@@ -12,7 +12,7 @@ Os exercicios vão estar separados de acordo com a semana que foi lecionada a ma
 - [Numeros arranjadinhos](https://github.com/franciscoribeiro2003/DAA/blob/main/Semana-01/DAA002/)
 
 **Semana 02**
-- [Bakugans](https://github.com/franciscoribeiro2003/DAA/blob/main/Semana-02/DAA005/README.md)
+- [Bakugans](https://github.com/franciscoribeiro2003/DAA/blob/main/Semana-02/DAA005)
 
 ### Francisco Ribeiro
 Universidade do Porto
