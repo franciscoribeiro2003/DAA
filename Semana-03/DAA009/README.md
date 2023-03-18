@@ -2,8 +2,8 @@
 A vida tal como a conhecemos depende do ADN (ácido desoxirribonucleico), um composto orgânico cujas moléculas contêm as instruções genéticas que controlam todo o funcionamento dos seres vivos. De um ponto de vista simplista, um fragmento de ADN humano pode ser pensado como uma palavra que usa um alfabeto de quatro letras: A, G, C e T (que correspondem às quatro base azotadas Adenina (A), Guanina (G), Citosina (C) e Timina (T).
 
 Recente foi descoberto pela primeira vez um fragmento de ADN que parece ter origem extra-terreste. De facto este ADN tem 26 diferente bases azotadas, que podem ser representadas pelas 26 diferentes letras maiúsculas do alfabeto. Por exemplo, a seguinte palavra é um possível fragmentos de ADN:
+`JSHNSHQSHDGNSYHNSJAHSSA`
 
-JSHNSHQSHDGNSYHNSJAHSSA
 Para compreender melhor a composição deste ADN, os cientistas querem perceber qual é a letra mais frequente. Serás capaz de ajudá-los?
 
 ## O Problema
@@ -36,10 +36,10 @@ D 1
 G 1
 ```
 **Explicação do Input/Output**
-A letra mais frequente é o 'S' que aparece 7 vezes.
-A 2ª letra mais frequente é o 'H', que aparece 5 vezes.
-A 3ª letra mais frequente é o 'N', que aparece 3 vezes.
-A seguir estão o 'J' e o 'A', e o 'J' aparece antes do que o 'A' no output porque também aparece primeiro que o 'A' no input.
-'Y', 'Q', 'D' e 'G' aparecem uma vez e vêm por esta ordem porque é também a ordem onde aparecem no input.
-Mais nenhuma letra aparece no input.
+- A letra mais frequente é o 'S' que aparece 7 vezes.
+- A 2ª letra mais frequente é o 'H', que aparece 5 vezes.
+- A 3ª letra mais frequente é o 'N', que aparece 3 vezes.
+- A seguir estão o 'J' e o 'A', e o 'J' aparece antes do que o 'A' no output porque também aparece primeiro que o 'A' no input.
+- 'Y', 'Q', 'D' e 'G' aparecem uma vez e vêm por esta ordem porque é também a ordem onde aparecem no input.
+- Mais nenhuma letra aparece no input.
 
