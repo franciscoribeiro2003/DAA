@@ -6,6 +6,14 @@ Minha resolução dos exercícios para a edição 2022/2023 da unidade curricula
 Os exercicios vão estar separados de acordo com a semana que foi lecionada a matéria, ou seja haverá um diretório novo para cada semana.
 [Site da Cadeira](https://www.dcc.fc.up.pt/~pribeiro/aulas/daa2223/)
 
+### Lista de exercícios
+**Semana 01**
+- [O Sentido da vida](https://github.com/franciscoribeiro2003/DAA/blob/main/Semana-01/DAA001/README.md)
+- [Numeros arranjadinhos](https://github.com/franciscoribeiro2003/DAA/blob/main/Semana-01/DAA002/README.md)
+
+**Semana 02**
+- [Bakugans](https://github.com/franciscoribeiro2003/DAA/blob/main/Semana-02/DAA005/README.md)
+
 ### Francisco Ribeiro
 Universidade do Porto
 
