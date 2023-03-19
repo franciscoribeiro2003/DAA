@@ -1,11 +1,4 @@
-// Conjunto S de N numeros inteiros
-// Sequencia de perguntas Q indicando um numero P[i]
-// Descubrir qual da soma de dois numeros diferentes S está mai proximo do numero P[i]
-// Input:
-// N tamanho do conjunto S
-// de seguida leitura dos numeros S
-// Q, quantidade de perguntas
-// leitura de cada pergunta
+
 #include <iostream>
 #include <algorithm>
 
