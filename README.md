@@ -19,6 +19,7 @@ Todos os exercícios são da autoria de Pedro Ribeiro.
 
 **Semana 03**
 - [ADN alienigena](https://github.com/franciscoribeiro2003/DAA/tree/main/Semana-03/DAA009)
+- [Somas mais próximas](https://github.com/franciscoribeiro2003/DAA/tree/main/Semana-03/DAA010)
 
 ### Autoria
 Francisco Ribeiro, Universidade do Porto.
