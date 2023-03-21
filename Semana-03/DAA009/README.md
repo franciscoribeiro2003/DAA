@@ -1,4 +1,4 @@
-# [DAA 009](https://mooshak.dcc.fc.up.pt/~daa/cgi-bin/execute/2650258076680013) ADN Alienígena
+# [DAA009](https://www.dcc.fc.up.pt/~pribeiro/aulas/daa2223/problemas/daa009.html) ADN Alienígena
 A vida tal como a conhecemos depende do ADN (ácido desoxirribonucleico), um composto orgânico cujas moléculas contêm as instruções genéticas que controlam todo o funcionamento dos seres vivos. De um ponto de vista simplista, um fragmento de ADN humano pode ser pensado como uma palavra que usa um alfabeto de quatro letras: A, G, C e T (que correspondem às quatro base azotadas Adenina (A), Guanina (G), Citosina (C) e Timina (T).
 
 Recente foi descoberto pela primeira vez um fragmento de ADN que parece ter origem extra-terreste. De facto este ADN tem 26 diferente bases azotadas, que podem ser representadas pelas 26 diferentes letras maiúsculas do alfabeto. Por exemplo, a seguinte palavra é um possível fragmentos de ADN:
