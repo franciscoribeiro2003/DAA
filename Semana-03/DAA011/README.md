@@ -55,9 +55,10 @@ São garantidos os seguintes limites em todos os casos de teste que irão ser co
 ```
 **Explicação do Input/Output**
 Neste caso temos 3 perguntas.
-Para a 1ª pergunta, com Ki=4 dias, a resposta é 21 e uma partição possível com esse custo é 7 9 3 | 8 2 2 9 | 4 3 4 7 | 9 9
-Para a 2ª pergunta, com Ki=3 dias, a resposta é 27 e uma partição possível com esse custo é 7 9 3 8 | 2 2 9 4 3 4 | 7 9 9
-Para a 3ª pergunta, com Ki=5 dias, a resposta é 18 e uma partição possível com esse custo é 7 9 | 3 8 2 2 | 9 4 3 | 4 7 | 9 9
+
+- Para a 1ª pergunta, com Ki=4 dias, a resposta é 21 e uma partição possível com esse custo é 7 9 3 | 8 2 2 9 | 4 3 4 7 | 9 9
+- Para a 2ª pergunta, com Ki=3 dias, a resposta é 27 e uma partição possível com esse custo é 7 9 3 8 | 2 2 9 4 3 4 | 7 9 9
+- Para a 3ª pergunta, com Ki=5 dias, a resposta é 18 e uma partição possível com esse custo é 7 9 | 3 8 2 2 | 9 4 3 | 4 7 | 9 9
 
 # Resolução
 Para este problema foi usado pesquisa binária.
