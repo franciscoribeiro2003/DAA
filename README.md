@@ -20,7 +20,7 @@ Todos os exercícios são da autoria de Pedro Ribeiro.
 **Semana 03**
 - [ADN alienigena](https://github.com/franciscoribeiro2003/DAA/tree/main/Semana-03/DAA009)
 - [Somas mais próximas](https://github.com/franciscoribeiro2003/DAA/tree/main/Semana-03/DAA010)
-- [Viagem de mochila ás costas](https://github.com/franciscoribeiro2003/DAA/new/main/Semana-03/DAA011)
+- [Viagem de mochila ás costas](https://github.com/franciscoribeiro2003/DAA/tree/main/Semana-03/DAA011)
 
 ### Autoria
 Francisco Ribeiro, Universidade do Porto.
