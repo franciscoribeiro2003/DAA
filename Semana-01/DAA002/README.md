@@ -1,4 +1,4 @@
-# [DAA 002](https://mooshak.dcc.fc.up.pt/~daa/cgi-bin/execute/2650258076680013) Números arranjadinhos
+# [DAA002](https://www.dcc.fc.up.pt/~pribeiro/aulas/daa2223/problemas/daa002.html) Números arranjadinhos
 O Pedro reparou que por baixo do seu portátil estava escrito o número 95726184. Curioso como é, não conseguiu deixar de reparar que a soma dos seus dígitos era 42! De facto, 9+5+7+2+6+1+8+4=42, o que fez o Pedro pensar que esta era um número mesmo "arranjadinho".
 
 Felicíssimo, foi a correr ter com o Manuel contar a sua descoberta. No entanto, o Manuel não achou a descoberta assim tão fascinante, pois achou que existiam mesmo muitos números com essa propriedade. O Pedro começou a contar a partir do 95726184 e de facto 9 números depois vem o 95726193, cuja soma dos dígitos também é 42. Mas nem sempre a distância é tão curta...
