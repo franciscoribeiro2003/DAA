@@ -1,4 +1,4 @@
-# [DAA 001](https://mooshak.dcc.fc.up.pt/~daa/cgi-bin/execute/2650258076680013) O sentido da vida
+# [DAA 001](https://www.dcc.fc.up.pt/~pribeiro/aulas/daa2223/problemas/daa001.html) O sentido da vida
 O Pedro sempre soube que o número 42 é a resposta para o sentido da vida, do universo e de tudo mais. Com o seu radiotelescópio ele está a apanhar sinais de rádio de baixa frequência que ele tenta perceber se poderá ser sinais de vida extraterrestre.
 
 Os sinais podem ser interpretados como uma sequência de números inteiros e, naturalmente, ao Pedro só lhe passou pela cabeça saber se o número 42 aparece com a frequência necessária para considerar que os sinais são de facto sinal de vida inteligente. Será que podes ajudá-lo a contar quantas vezes o número 42 aparece?
