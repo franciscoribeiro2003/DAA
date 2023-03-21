@@ -1,4 +1,4 @@
-# [DAA 011](https://www.dcc.fc.up.pt/~pribeiro/aulas/daa2223/problemas/daa011.html) Viagem de mochila às costas
+# [DAA011](https://www.dcc.fc.up.pt/~pribeiro/aulas/daa2223/problemas/daa011.html) Viagem de mochila às costas
 O Aniceto e os amigos resolveram fazer uma viagem até aos Alpes, onde vão percorrer um belíssimo trilho de montanha. Como o trilho é muito longo, eles resolveram levar as mochilas às costas e acampar várias noites no caminho. Para o Aniceto, uma das melhoras partes de toda a experiência é o planeamento de toda a viagem e ele quer ter a certeza de escolher da melhor forma possível.
 
 Os amigos já sabem quais os sítios onde é possível montar as tendas para passar a noite sabem também qual a distância em kms entre os possíveis locais sucessivos de acampamento. O objectivo do Aniceto dividir o percurso em vários dias, de modo a minimizar a distância que têm de andar num único dia. Imagina por exemplo que eles querem dividir em quatro dias as seguintes distâncias consecutivas:
