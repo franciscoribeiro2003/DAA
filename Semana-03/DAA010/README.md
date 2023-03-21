@@ -1,4 +1,4 @@
-# [DAA 010](https://mooshak.dcc.fc.up.pt/~daa/cgi-bin/execute/6830335937827051) Somas mais próximas
+# [DAA010](https://www.dcc.fc.up.pt/~pribeiro/aulas/daa2223/problemas/daa010.html) Somas mais próximas
 
 ## O Problema
 Dada um conjunto S de N números inteiros, e uma sequência de Q perguntas (queries), cada uma indicando um número Pi, a tua tarefa é descobrir qual é a soma de dois números diferentes de S que está mais próxima do número Pi de cada pergunta.
