@@ -1,4 +1,4 @@
-# [DAA 005](https://mooshak.dcc.fc.up.pt/~daa/cgi-bin/execute/2650258076680013) Bakugans
+# [DAA005](https://www.dcc.fc.up.pt/~pribeiro/aulas/daa2223/problemas/daa005.html) Bakugans
 Os Bakugans são pequenas esferas que quando são colocados em cima de cartas especiais, abrem-se, transformando-se em diferentes criaturas, tais como um dragão ou um escorpião. Cada Bakugan tem associada a si uma determinada quantidade de energia G que depois é usada quando combatem para descobrir qual é o mais forte. Por exemplo, podemos ter um Bakugan com 300G, outro de 400G e outro de 500G, sendo que o mais forte dos três seria neste caso o de 500G.
 
 O pequeno Elias gosta muito dos seus Bakugans e resolveu colocá-los todos dispostos em linha, para poder tirar várias fotos e mostrar aos seus amigos. Como uma foto não consegue apanhar todos os Bakugans, ele decidiu que queria apenas mostrar as fotos que apanhavam os Bakugans mais fortes, com mais energia, mas ele precisa da tua ajuda para calcular a energia presenta em cada foto.
