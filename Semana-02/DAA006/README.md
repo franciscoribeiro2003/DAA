@@ -1,4 +1,4 @@
-# [DAA 006](https://mooshak.dcc.fc.up.pt/~daa/cgi-bin/execute/2650258076680013) Área de Interseção
+# [DAA006](https://www.dcc.fc.up.pt/~pribeiro/aulas/daa2223/problemas/daa006.html) Área de Interseção
 A Sarita adora desenhar figuras geométricas! Depois de desenhar, ela gosta também de colorir os desenhos. No seu último desenho, ela fez uma série de quadrados e círculos e resolveu pintar a área de interseção entre cada um dos pares de figuras.
 
 O problema é que a Sarita gasta imenso os marcadores com as suas pinturas! Como és responsável por lhe comprar o material de desenho, queres perceber exactamente quanto é que ela gasta e para isso pretendes saber qual a área pintada.
