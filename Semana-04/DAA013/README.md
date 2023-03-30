@@ -34,4 +34,5 @@ São garantidos os seguintes limites em todos os casos de teste que irão ser co
 ```
 
 *Explicação do Input/Output*
-O exemplo de input corresponde à imagem aqui apresentada. A solução é 3 porque podiamos usar os segmentos [0,2], [2,4] e [3,8], cobrindo toda a zona [0,6], tal como pedido.
+- O exemplo de input corresponde à imagem aqui apresentada. 
+- A solução é 3 porque podiamos usar os segmentos [0,2], [2,4] e [3,8], cobrindo toda a zona [0,6].
