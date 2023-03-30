@@ -17,6 +17,8 @@ São garantidos os seguintes limites em todos os casos de teste que irão ser co
 1 ≤ M ≤ 1 000 000	   	Tamanho do segmento a cobrir
 1 ≤ N ≤ 1 000	   	Quantidade de segmentos
 0 ≤ Li ≤ Ri ≤ 1 000 000	   	Coordenadas dos segmentos
+
+
 **Exemplo de Input**
 ```
 6
