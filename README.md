@@ -22,6 +22,10 @@ Todos os exercícios são da autoria de Pedro Ribeiro.
 - [Somas mais próximas](https://github.com/franciscoribeiro2003/DAA/tree/main/Semana-03/DAA010)
 - [Viagem de mochila ás costas](https://github.com/franciscoribeiro2003/DAA/tree/main/Semana-03/DAA011)
 
+**Semana 04**
+- [Cobertura mínima](https://github.com/franciscoribeiro2003/DAA/tree/main/Semana-04/DAA013)
+
+
 ### Autoria
 Francisco Ribeiro, Universidade do Porto.
 
