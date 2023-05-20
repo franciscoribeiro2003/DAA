@@ -25,6 +25,9 @@ Todos os exercícios são da autoria de Pedro Ribeiro.
 **Semana 04**
 - [Cobertura mínima](https://github.com/franciscoribeiro2003/DAA/tree/main/Semana-04/DAA013)
 
+**Semana 07**
+- [Redes de circuitos electrónicos](https://github.com/franciscoribeiro2003/DAA/tree/main/Semana-07/DAA025)
+
 
 ### Autoria
 Francisco Ribeiro, Universidade do Porto.
